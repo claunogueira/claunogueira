@@ -12,7 +12,7 @@
  <img align="right" alt="Clau-pic" height="150" style="border-radius:50px;"src="https://i.pinimg.com/564x/fc/63/7d/fc637dc825ea7815e24c6dda78cfca64.jpg"> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://icongr.am/feather/arrow-left-circle.svg?size=107&color=ffffff">
 </div>
-17
+
 
   ##
 
